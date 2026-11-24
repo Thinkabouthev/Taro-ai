@@ -1,0 +1,16 @@
+{
+  "short_name": "Tarot AI",
+  "name": "Tarot AI - Personalized Tarot Readings",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090A10",
+  "theme_color": "#090A10",
+  "display": "standalone",
+  "orientation": "portrait"
+}

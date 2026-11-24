@@ -6,7 +6,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "New beginnings, innocence, spontaneity, free spirit",
-      "reversed": "Recklessness, risk-taking, inconsideration"
+      "reversed": "Recklessness, risk-taking, inconsideration",
+      "image_url": "/cards/major_0.jpg"
     },
     {
       "id": "major_1",
@@ -14,7 +15,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Manifestation, resourcefulness, power, inspired action",
-      "reversed": "Illusion, manipulation, untapped talent"
+      "reversed": "Illusion, manipulation, untapped talent",
+      "image_url": "/cards/major_1.jpg"
     },
     {
       "id": "major_2",
@@ -22,7 +24,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Intuition, sacred knowledge, divine feminine, subconscious",
-      "reversed": "Secrets, disconnected from intuition, withdrawal"
+      "reversed": "Secrets, disconnected from intuition, withdrawal",
+      "image_url": "/cards/major_2.jpg"
     },
     {
       "id": "major_3",
@@ -30,7 +33,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Femininity, beauty, nature, nurturing, abundance",
-      "reversed": "Creative block, dependence on others, neglect"
+      "reversed": "Creative block, dependence on others, neglect",
+      "image_url": "/cards/major_3.jpg"
     },
     {
       "id": "major_4",
@@ -38,7 +42,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Authority, establishment, structure, father figure",
-      "reversed": "Domination, excessive control, lack of discipline"
+      "reversed": "Domination, excessive control, lack of discipline",
+      "image_url": "/cards/major_4.jpg"
     },
     {
       "id": "major_5",
@@ -46,7 +51,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Spiritual wisdom, religious beliefs, conformity, tradition",
-      "reversed": "Personal beliefs, freedom, challenging status quo"
+      "reversed": "Personal beliefs, freedom, challenging status quo",
+      "image_url": "/cards/major_5.jpg"
     },
     {
       "id": "major_6",
@@ -54,7 +60,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Love, harmony, relationships, values alignment, choices",
-      "reversed": "Self-love, disharmony, imbalance, misalignment"
+      "reversed": "Self-love, disharmony, imbalance, misalignment",
+      "image_url": "/cards/major_6.jpg"
     },
     {
       "id": "major_7",
@@ -62,7 +69,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Control, willpower, success, action, determination",
-      "reversed": "Self-doubt, lack of direction, loss of control"
+      "reversed": "Self-doubt, lack of direction, loss of control",
+      "image_url": "/cards/major_7.jpg"
     },
     {
       "id": "major_8",
@@ -70,7 +78,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Strength, courage, persuasion, influence, compassion",
-      "reversed": "Inner strength, self-doubt, raw emotion, low energy"
+      "reversed": "Inner strength, self-doubt, raw emotion, low energy",
+      "image_url": "/cards/major_8.jpg"
     },
     {
       "id": "major_9",
@@ -78,7 +87,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Soul-searching, introspection, being alone, inner guidance",
-      "reversed": "Loneliness, isolation, paranoia, withdrawal"
+      "reversed": "Loneliness, isolation, paranoia, withdrawal",
+      "image_url": "/cards/major_9.jpg"
     },
     {
       "id": "major_10",
@@ -86,7 +96,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Good luck, karma, life cycles, destiny, a turning point",
-      "reversed": "Bad luck, resistance to change, breaking cycles"
+      "reversed": "Bad luck, resistance to change, breaking cycles",
+      "image_url": "/cards/major_10.jpg"
     },
     {
       "id": "major_11",
@@ -94,7 +105,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Justice, fairness, truth, cause and effect, law",
-      "reversed": "Unfairness, lack of accountability, dishonesty"
+      "reversed": "Unfairness, lack of accountability, dishonesty",
+      "image_url": "/cards/major_11.jpg"
     },
     {
       "id": "major_12",
@@ -102,7 +114,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Pause, surrender, letting go, new perspectives",
-      "reversed": "Delays, resistance, stalling, indecision"
+      "reversed": "Delays, resistance, stalling, indecision",
+      "image_url": "/cards/major_12.jpg"
     },
     {
       "id": "major_13",
@@ -110,7 +123,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Endings, change, transformation, transition",
-      "reversed": "Resistance to change, personal transformation, fear of change"
+      "reversed": "Resistance to change, personal transformation, fear of change",
+      "image_url": "/cards/major_13.jpg"
     },
     {
       "id": "major_14",
@@ -118,7 +132,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Balance, moderation, patience, purpose",
-      "reversed": "Imbalance, excess, self-healing, re-alignment"
+      "reversed": "Imbalance, excess, self-healing, re-alignment",
+      "image_url": "/cards/major_14.jpg"
     },
     {
       "id": "major_15",
@@ -126,7 +141,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Shadow self, attachment, addiction, restriction, sexuality",
-      "reversed": "Releasing limiting beliefs, exploring dark thoughts, detachment"
+      "reversed": "Releasing limiting beliefs, exploring dark thoughts, detachment",
+      "image_url": "/cards/major_15.jpg"
     },
     {
       "id": "major_16",
@@ -134,7 +150,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Sudden change, upheaval, chaos, revelation, awakening",
-      "reversed": "Personal transformation, fear of suffering, averting disaster"
+      "reversed": "Personal transformation, fear of suffering, averting disaster",
+      "image_url": "/cards/major_16.jpg"
     },
     {
       "id": "major_17",
@@ -142,7 +159,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Hope, faith, purpose, renewal, spirituality",
-      "reversed": "Lack of faith, despair, self-trust, disconnection"
+      "reversed": "Lack of faith, despair, self-trust, disconnection",
+      "image_url": "/cards/major_17.jpg"
     },
     {
       "id": "major_18",
@@ -150,7 +168,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Illusion, fear, anxiety, subconscious, intuition",
-      "reversed": "Release of fear, repressed emotion, inner confusion"
+      "reversed": "Release of fear, repressed emotion, inner confusion",
+      "image_url": "/cards/major_18.jpg"
     },
     {
       "id": "major_19",
@@ -158,7 +177,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Positivity, fun, warmth, success, vitality",
-      "reversed": "Inner child, feeling down, overly optimistic"
+      "reversed": "Inner child, feeling down, overly optimistic",
+      "image_url": "/cards/major_19.jpg"
     },
     {
       "id": "major_20",
@@ -166,7 +186,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Judgement, rebirth, inner calling, absolution",
-      "reversed": "Self-doubt, inner critic, ignoring the call"
+      "reversed": "Self-doubt, inner critic, ignoring the call",
+      "image_url": "/cards/major_20.jpg"
     },
     {
       "id": "major_21",
@@ -174,7 +195,8 @@
       "arcana": "major",
       "suit": null,
       "upright": "Completion, integration, accomplishment, travel",
-      "reversed": "Seeking personal closure, short-cuts, delays"
+      "reversed": "Seeking personal closure, short-cuts, delays",
+      "image_url": "/cards/major_21.jpg"
     },
     {
       "id": "cups_ace",
@@ -182,7 +204,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Love, new feelings, compassion, creativity",
-      "reversed": "Self-love, repressed emotions, emotional loss"
+      "reversed": "Self-love, repressed emotions, emotional loss",
+      "image_url": "/cards/cups_ace.jpg"
     },
     {
       "id": "cups_2",
@@ -190,7 +213,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Unified love, partnership, mutual attraction",
-      "reversed": "Self-love, break-ups, disharmony, mistrust"
+      "reversed": "Self-love, break-ups, disharmony, mistrust",
+      "image_url": "/cards/cups_2.jpg"
     },
     {
       "id": "cups_3",
@@ -198,7 +222,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Celebration, friendship, creativity, collaborations",
-      "reversed": "An insufficiency of friends, gossip, isolation"
+      "reversed": "An insufficiency of friends, gossip, isolation",
+      "image_url": "/cards/cups_3.jpg"
     },
     {
       "id": "cups_4",
@@ -206,7 +231,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Meditation, contemplation, apathy, reevaluation",
-      "reversed": "Retreat, withdrawal, checking in on oneself"
+      "reversed": "Retreat, withdrawal, checking in on oneself",
+      "image_url": "/cards/cups_4.jpg"
     },
     {
       "id": "cups_5",
@@ -214,7 +240,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Regret, failure, disappointment, pessimism",
-      "reversed": "Personal setbacks, self-forgiveness, moving on"
+      "reversed": "Personal setbacks, self-forgiveness, moving on",
+      "image_url": "/cards/cups_5.jpg"
     },
     {
       "id": "cups_6",
@@ -222,7 +249,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Revisiting the past, childhood memories, innocence",
-      "reversed": "Living in the past, forgiveness, lacking playfulness"
+      "reversed": "Living in the past, forgiveness, lacking playfulness",
+      "image_url": "/cards/cups_6.jpg"
     },
     {
       "id": "cups_7",
@@ -230,7 +258,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Opportunities, choices, wishful thinking, illusion",
-      "reversed": "Alignment, personal values, overwhelmed by choices"
+      "reversed": "Alignment, personal values, overwhelmed by choices",
+      "image_url": "/cards/cups_7.jpg"
     },
     {
       "id": "cups_8",
@@ -238,7 +267,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Disillusionment, abandonment, walking away, withdrawal",
-      "reversed": "Trying one more time, indecision, fear of change"
+      "reversed": "Trying one more time, indecision, fear of change",
+      "image_url": "/cards/cups_8.jpg"
     },
     {
       "id": "cups_9",
@@ -246,7 +276,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Contentment, satisfaction, gratitude, wish come true",
-      "reversed": "Inner happiness, materialism, dissatisfaction"
+      "reversed": "Inner happiness, materialism, dissatisfaction",
+      "image_url": "/cards/cups_9.jpg"
     },
     {
       "id": "cups_10",
@@ -254,7 +285,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Divine love, blissful relationships, harmony, alignment",
-      "reversed": "Disconnection, misaligned values, broken home"
+      "reversed": "Disconnection, misaligned values, broken home",
+      "image_url": "/cards/cups_10.jpg"
     },
     {
       "id": "cups_page",
@@ -262,7 +294,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Creative opportunities, intuitive messages, curiosity",
-      "reversed": "New ideas, doubting intuition, emotional immaturity"
+      "reversed": "New ideas, doubting intuition, emotional immaturity",
+      "image_url": "/cards/cups_page.jpg"
     },
     {
       "id": "cups_knight",
@@ -270,7 +303,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Creativity, romance, charm, imagination, beauty",
-      "reversed": "Over-idealizing, disappointment, moodiness"
+      "reversed": "Over-idealizing, disappointment, moodiness",
+      "image_url": "/cards/cups_knight.jpg"
     },
     {
       "id": "cups_queen",
@@ -278,7 +312,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Compassionate, caring, emotionally stable, intuitive",
-      "reversed": "Inner feelings, self-compassion, emotional insecurity"
+      "reversed": "Inner feelings, self-compassion, emotional insecurity",
+      "image_url": "/cards/cups_queen.jpg"
     },
     {
       "id": "cups_king",
@@ -286,7 +321,8 @@
       "arcana": "minor",
       "suit": "cups",
       "upright": "Emotionally balanced, compassionate, diplomatic",
-      "reversed": "Self-compassion, inner feelings, moodiness, manipulation"
+      "reversed": "Self-compassion, inner feelings, moodiness, manipulation",
+      "image_url": "/cards/cups_king.jpg"
     },
     {
       "id": "pentacles_ace",
@@ -294,7 +330,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "A new financial opportunity, manifestation, abundance",
-      "reversed": "Lost opportunity, lack of planning and foresight"
+      "reversed": "Lost opportunity, lack of planning and foresight",
+      "image_url": "/cards/pentacles_ace.jpg"
     },
     {
       "id": "pentacles_2",
@@ -302,7 +339,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Multiple priorities, time management, adaptability",
-      "reversed": "Over-committed, disorganization, reprioritizing"
+      "reversed": "Over-committed, disorganization, reprioritizing",
+      "image_url": "/cards/pentacles_2.jpg"
     },
     {
       "id": "pentacles_3",
@@ -310,7 +348,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Teamwork, collaboration, learning, implementation",
-      "reversed": "Disharmony, misalignment, working alone"
+      "reversed": "Disharmony, misalignment, working alone",
+      "image_url": "/cards/pentacles_3.jpg"
     },
     {
       "id": "pentacles_4",
@@ -318,7 +357,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Saving money, security, conservatism, scarcity mind-set",
-      "reversed": "Over-spending, greed, self-protection"
+      "reversed": "Over-spending, greed, self-protection",
+      "image_url": "/cards/pentacles_4.jpg"
     },
     {
       "id": "pentacles_5",
@@ -326,7 +366,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Financial loss, poverty, isolation, worry",
-      "reversed": "Recovery from financial loss, spiritual poverty"
+      "reversed": "Recovery from financial loss, spiritual poverty",
+      "image_url": "/cards/pentacles_5.jpg"
     },
     {
       "id": "pentacles_6",
@@ -334,7 +375,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Giving, receiving, sharing wealth, generosity, charity",
-      "reversed": "Self-care, unpaid debts, one-sided charity"
+      "reversed": "Self-care, unpaid debts, one-sided charity",
+      "image_url": "/cards/pentacles_6.jpg"
     },
     {
       "id": "pentacles_7",
@@ -342,7 +384,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Long-term view, sustainable results, perseverance",
-      "reversed": "Lack of long-term vision, limited success or reward"
+      "reversed": "Lack of long-term vision, limited success or reward",
+      "image_url": "/cards/pentacles_7.jpg"
     },
     {
       "id": "pentacles_8",
@@ -350,7 +393,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Apprenticeship, repetitive tasks, mastery, skill development",
-      "reversed": "Self-development, perfectionism, misdirected activity"
+      "reversed": "Self-development, perfectionism, misdirected activity",
+      "image_url": "/cards/pentacles_8.jpg"
     },
     {
       "id": "pentacles_9",
@@ -358,7 +402,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Abundance, luxury, self-reliance, financial independence",
-      "reversed": "Self-worth, over-investment in work, hustling"
+      "reversed": "Self-worth, over-investment in work, hustling",
+      "image_url": "/cards/pentacles_9.jpg"
     },
     {
       "id": "pentacles_10",
@@ -366,7 +411,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Wealth, financial security, family, long-term success",
-      "reversed": "Financial failure, dark side of wealth, dispute"
+      "reversed": "Financial failure, dark side of wealth, dispute",
+      "image_url": "/cards/pentacles_10.jpg"
     },
     {
       "id": "pentacles_page",
@@ -374,7 +420,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Manifestation, financial opportunity, skill development",
-      "reversed": "Lack of progress, procrastination, learn from failure"
+      "reversed": "Lack of progress, procrastination, learn from failure",
+      "image_url": "/cards/pentacles_page.jpg"
     },
     {
       "id": "pentacles_knight",
@@ -382,7 +429,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Hard work, productivity, routine, conservatism",
-      "reversed": "Self-discipline, boredom, feeling stuck, perfectionism"
+      "reversed": "Self-discipline, boredom, feeling stuck, perfectionism",
+      "image_url": "/cards/pentacles_knight.jpg"
     },
     {
       "id": "pentacles_queen",
@@ -390,7 +438,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Nurturing, practical, providing financially, hospitality",
-      "reversed": "Financial independence, self-care, work-home conflict"
+      "reversed": "Financial independence, self-care, work-home conflict",
+      "image_url": "/cards/pentacles_queen.jpg"
     },
     {
       "id": "pentacles_king",
@@ -398,7 +447,8 @@
       "arcana": "minor",
       "suit": "pentacles",
       "upright": "Wealth, business, leadership, security, discipline",
-      "reversed": "Financially inept, obsessed with wealth/status, stubborn"
+      "reversed": "Financially inept, obsessed with wealth/status, stubborn",
+      "image_url": "/cards/pentacles_king.jpg"
     },
     {
       "id": "swords_ace",
@@ -406,7 +456,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Breakthroughs, new ideas, mental clarity, success",
-      "reversed": "Inner clarity, re-thinking an idea, clouded judgement"
+      "reversed": "Inner clarity, re-thinking an idea, clouded judgement",
+      "image_url": "/cards/swords_ace.jpg"
     },
     {
       "id": "swords_2",
@@ -414,7 +465,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Difficult decisions, weighing options, avoidance, stalemate",
-      "reversed": "Indecision, confusion, information overload"
+      "reversed": "Indecision, confusion, information overload",
+      "image_url": "/cards/swords_2.jpg"
     },
     {
       "id": "swords_3",
@@ -422,7 +474,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Heartbreak, emotional pain, sorrow, grief, hurt",
-      "reversed": "Negative self-talk, releasing pain, forgiveness"
+      "reversed": "Negative self-talk, releasing pain, forgiveness",
+      "image_url": "/cards/swords_3.jpg"
     },
     {
       "id": "swords_4",
@@ -430,7 +483,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Rest, relaxation, meditation, contemplation, recuperation",
-      "reversed": "Exhaustion, burn-out, deep contemplation"
+      "reversed": "Exhaustion, burn-out, deep contemplation",
+      "image_url": "/cards/swords_4.jpg"
     },
     {
       "id": "swords_5",
@@ -438,7 +492,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Unbridled ambition, win at all costs, sneakiness",
-      "reversed": "Lingering resentment, desire to reconcile, forgiving"
+      "reversed": "Lingering resentment, desire to reconcile, forgiving",
+      "image_url": "/cards/swords_5.jpg"
     },
     {
       "id": "swords_6",
@@ -446,7 +501,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Transition, change, rite of passage, releasing baggage",
-      "reversed": "Personal transition, resistance to change, unfinished business"
+      "reversed": "Personal transition, resistance to change, unfinished business",
+      "image_url": "/cards/swords_6.jpg"
     },
     {
       "id": "swords_7",
@@ -454,7 +510,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Betrayal, deception, getting away with something, strategy",
-      "reversed": "Imposter syndrome, deceit, keeping secrets"
+      "reversed": "Imposter syndrome, deceit, keeping secrets",
+      "image_url": "/cards/swords_7.jpg"
     },
     {
       "id": "swords_8",
@@ -462,7 +519,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Negative thoughts, self-imposed restriction, imprisonment",
-      "reversed": "Self-limiting beliefs, inner critic, releasing control"
+      "reversed": "Self-limiting beliefs, inner critic, releasing control",
+      "image_url": "/cards/swords_8.jpg"
     },
     {
       "id": "swords_9",
@@ -470,7 +528,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Anxiety, worry, fear, depression, nightmares",
-      "reversed": "Inner turmoil, deep-seated fears, secret despair"
+      "reversed": "Inner turmoil, deep-seated fears, secret despair",
+      "image_url": "/cards/swords_9.jpg"
     },
     {
       "id": "swords_10",
@@ -478,7 +537,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Painful endings, deep wounds, betrayal, loss, crisis",
-      "reversed": "Recovery, regeneration, resisting an inevitable end"
+      "reversed": "Recovery, regeneration, resisting an inevitable end",
+      "image_url": "/cards/swords_10.jpg"
     },
     {
       "id": "swords_page",
@@ -486,7 +546,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "New ideas, curiosity, thirst for knowledge, new ways of thinking",
-      "reversed": "Self-expression, all talk and no action, haphazard"
+      "reversed": "Self-expression, all talk and no action, haphazard",
+      "image_url": "/cards/swords_page.jpg"
     },
     {
       "id": "swords_knight",
@@ -494,7 +555,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Ambitious, action-oriented, driven to succeed, fast-thinking",
-      "reversed": "Restless, unfocused, impulsive, burn-out"
+      "reversed": "Restless, unfocused, impulsive, burn-out",
+      "image_url": "/cards/swords_knight.jpg"
     },
     {
       "id": "swords_queen",
@@ -502,7 +564,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Independent, unbiased judgement, clear boundaries, direct",
-      "reversed": "Overly emotional, easily influenced, bitchy, cold-hearted"
+      "reversed": "Overly emotional, easily influenced, bitchy, cold-hearted",
+      "image_url": "/cards/swords_queen.jpg"
     },
     {
       "id": "swords_king",
@@ -510,7 +573,8 @@
       "arcana": "minor",
       "suit": "swords",
       "upright": "Mental clarity, intellectual power, authority, truth",
-      "reversed": "Quiet power, inner truth, misuse of power, manipulation"
+      "reversed": "Quiet power, inner truth, misuse of power, manipulation",
+      "image_url": "/cards/swords_king.jpg"
     },
     {
       "id": "wands_ace",
@@ -518,7 +582,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Inspiration, new opportunities, growth, potential",
-      "reversed": "Emerging idea, lack of direction, distractions"
+      "reversed": "Emerging idea, lack of direction, distractions",
+      "image_url": "/cards/wands_ace.jpg"
     },
     {
       "id": "wands_2",
@@ -526,7 +591,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Future planning, progress, decisions, discovery",
-      "reversed": "Personal goals, inner alignment, fear of unknown"
+      "reversed": "Personal goals, inner alignment, fear of unknown",
+      "image_url": "/cards/wands_2.jpg"
     },
     {
       "id": "wands_3",
@@ -534,7 +600,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Progress, expansion, foresight, overseas opportunities",
-      "reversed": "Playing small, lack of foresight, unexpected delays"
+      "reversed": "Playing small, lack of foresight, unexpected delays",
+      "image_url": "/cards/wands_3.jpg"
     },
     {
       "id": "wands_4",
@@ -542,7 +609,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Celebration, joy, harmony, relaxation, homecoming",
-      "reversed": "Personal celebration, inner harmony, conflict with family"
+      "reversed": "Personal celebration, inner harmony, conflict with family",
+      "image_url": "/cards/wands_4.jpg"
     },
     {
       "id": "wands_5",
@@ -550,7 +618,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Conflict, disagreements, competition, tension, diversity",
-      "reversed": "Conflict avoidance, diversity, agreeing to disagree"
+      "reversed": "Conflict avoidance, diversity, agreeing to disagree",
+      "image_url": "/cards/wands_5.jpg"
     },
     {
       "id": "wands_6",
@@ -558,7 +627,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Success, public recognition, progress, self-confidence",
-      "reversed": "Private achievement, personal definition of success, fall from grace"
+      "reversed": "Private achievement, personal definition of success, fall from grace",
+      "image_url": "/cards/wands_6.jpg"
     },
     {
       "id": "wands_7",
@@ -566,7 +636,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Challenge, competition, protection, perseverance",
-      "reversed": "Exhaustion, giving up, overwhelmed"
+      "reversed": "Exhaustion, giving up, overwhelmed",
+      "image_url": "/cards/wands_7.jpg"
     },
     {
       "id": "wands_8",
@@ -574,7 +645,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Movement, fast pace, action, alignment, air travel",
-      "reversed": "Delays, frustration, resisting change, internal alignment"
+      "reversed": "Delays, frustration, resisting change, internal alignment",
+      "image_url": "/cards/wands_8.jpg"
     },
     {
       "id": "wands_9",
@@ -582,7 +654,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Resilience, courage, persistence, test of faith, boundaries",
-      "reversed": "Inner resources, struggle, overwhelm, defensive"
+      "reversed": "Inner resources, struggle, overwhelm, defensive",
+      "image_url": "/cards/wands_9.jpg"
     },
     {
       "id": "wands_10",
@@ -590,7 +663,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Extra responsibility, hard work, burdens, stress",
-      "reversed": "Doing it all, carrying the burden, delegation"
+      "reversed": "Doing it all, carrying the burden, delegation",
+      "image_url": "/cards/wands_10.jpg"
     },
     {
       "id": "wands_page",
@@ -598,7 +672,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Inspiration, ideas, discovery, limitless potential",
-      "reversed": "Newly-formed idea, procrastinating, lack of direction"
+      "reversed": "Newly-formed idea, procrastinating, lack of direction",
+      "image_url": "/cards/wands_page.jpg"
     },
     {
       "id": "wands_knight",
@@ -606,7 +681,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Energy, passion, inspired action, adventure, impulsiveness",
-      "reversed": "Passionate project, haste, scattered energy, delays"
+      "reversed": "Passionate project, haste, scattered energy, delays",
+      "image_url": "/cards/wands_knight.jpg"
     },
     {
       "id": "wands_queen",
@@ -614,7 +690,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Courage, confidence, independence, social butterfly",
-      "reversed": "Self-respect, self-confidence, introverted, re-establishing boundaries"
+      "reversed": "Self-respect, self-confidence, introverted, re-establishing boundaries",
+      "image_url": "/cards/wands_queen.jpg"
     },
     {
       "id": "wands_king",
@@ -622,7 +699,8 @@
       "arcana": "minor",
       "suit": "wands",
       "upright": "Natural-born leader, vision, entrepreneur, honour",
-      "reversed": "Impulsiveness, haste, ruthless, high expectations"
+      "reversed": "Impulsiveness, haste, ruthless, high expectations",
+      "image_url": "/cards/wands_king.jpg"
     }
   ]
 }
