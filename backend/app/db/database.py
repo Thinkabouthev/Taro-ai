@@ -1,15 +1,38 @@
+import os
 import sqlite3
 import json
 import uuid
+import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-DB_PATH = Path(__file__).resolve().parent.parent / "data" / "tarot.db"
+
+def _resolve_db_path() -> Path:
+    # On Vercel, AWS Lambda, or read-only container environments, use writable temp directory
+    if os.environ.get("VERCEL") or os.environ.get("AWS_LAMBDA_FUNCTION_NAME"):
+        return Path(tempfile.gettempdir()) / "tarot.db"
+
+    candidate = Path(__file__).resolve().parent.parent / "data" / "tarot.db"
+    try:
+        candidate.parent.mkdir(parents=True, exist_ok=True)
+        # Test write permission
+        test_file = candidate.parent / ".perm_check"
+        test_file.touch()
+        test_file.unlink()
+        return candidate
+    except (OSError, PermissionError):
+        return Path(tempfile.gettempdir()) / "tarot.db"
+
+
+DB_PATH = _resolve_db_path()
 
 
 def get_db():
-    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    except (OSError, PermissionError):
+        pass
     conn = sqlite3.connect(DB_PATH, check_same_thread=False)
     conn.row_factory = sqlite3.Row
     return conn

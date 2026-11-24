@@ -29,10 +29,12 @@ class TarotService:
     def _load_cards(self):
         candidates = [
             self.data_path,
-            Path(__file__).resolve().parent.parent.parent.parent / "parser" / "cards.json",
             Path(__file__).resolve().parent.parent / "data" / "cards.json",
-            Path("parser/cards.json"),
-            Path("app/data/cards.json")
+            Path(__file__).resolve().parent.parent.parent / "backend" / "app" / "data" / "cards.json",
+            Path(__file__).resolve().parent.parent.parent.parent / "parser" / "cards.json",
+            Path("backend/app/data/cards.json"),
+            Path("app/data/cards.json"),
+            Path("parser/cards.json")
         ]
 
         found_path = None
